@@ -288,7 +288,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Notes"
-  url = "https://datasciencebook.netlify.com"
+  url = "https://datasciencenotes.netlify.com/"
   weight = 5
 
 [[menu.main]]
