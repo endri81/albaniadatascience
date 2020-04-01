@@ -34,7 +34,7 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = R Language"
+  name = "R Language"
   tag = "R Language"
 
 [[filter]]
