@@ -4,7 +4,7 @@ author: "Endri Raco"
 date: "01 04 2020"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 image_preview: "bubbles.jpg"
-tags: "Deep Learning"
+tags: "R Language"
 external_link: ""
 math: false
 header:
